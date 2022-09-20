@@ -1,6 +1,0 @@
-#!/bin/bash
-
-zmienna=world
-
-echo "hello, $zmienna"
-
